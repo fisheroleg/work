@@ -1,0 +1,200 @@
+{
+  "code": 0,
+  "model": "Gtin",
+  "object": {
+    "goodid": "110880",
+    "gtin": "4820123510578",
+    "multiplier": "1.00",
+    "good": {
+      "name": "Сік яб.вин.осв.Малятко тп 200мл",
+      "gtins": [
+        {
+          "gtin": "4820123510578"
+        },
+        {
+          "gtin": "000000000000209604"
+        },
+        {
+          "gtin": "209630"
+        },
+        {
+          "gtin": "112454"
+        },
+        {
+          "gtin": "4820123510578"
+        },
+        {
+          "gtin": "154296"
+        },
+        {
+          "gtin": "4820123510578"
+        }
+      ],
+      "categories": [
+        {
+          "catid": "14049",
+          "name": "Напитки для детей"
+        }
+      ],
+      "manufacturers": [
+        {
+          "partyid": "2717",
+          "name": "АО \"Орхей-Вит\""
+        }
+      ],
+      "tm": {
+        "tmid": "4861",
+        "name": "Малятко"
+      }
+    },
+    "attrvalues": [
+      {
+        "attrid": "2439",
+        "name": "Глубина",
+        "value": "5.8",
+        "type": "см",
+        "valuestype": "см",
+        "gtin": "4820123510578"
+      },
+      {
+        "attrid": "2438",
+        "name": "Ширина",
+        "value": "4.4",
+        "type": "см",
+        "valuestype": "см",
+        "gtin": "4820123510578"
+      },
+      {
+        "attrid": "2437",
+        "name": "Высота",
+        "value": "11.6",
+        "type": "см",
+        "valuestype": "см",
+        "gtin": "4820123510578"
+      },
+      {
+        "attrid": "2440",
+        "name": "Вес брутто",
+        "value": "0.228",
+        "type": "кг",
+        "valuestype": "кг",
+        "gtin": "4820123510578"
+      },
+      {
+        "attrid": "2501",
+        "name": "Планограмма выкладки товара",
+        "value": "ДА"
+      },
+      {
+        "attrid": "2630",
+        "name": "Страна",
+        "value": "UA"
+      },
+      {
+        "attrid": "2432",
+        "name": "CTM",
+        "value": "НЕТ"
+      },
+      {
+        "attrid": "2503",
+        "name": "Производитель",
+        "value": "2717"
+      },
+      {
+        "attrid": "37",
+        "name": "Возраст потребителя",
+        "value": "4+",
+        "type": "месяцев",
+        "valuestype": "недель\r\nмесяцев\r\nлет"
+      },
+      {
+        "attrid": "830",
+        "name": "Объем",
+        "value": "200",
+        "type": "мл",
+        "valuestype": "мл\r\nл\r\nкуб. дм\r\nг"
+      },
+      {
+        "attrid": "1123",
+        "name": "Материал упаковки",
+        "value": "КАРТОН {400005003}",
+        "codegdsn": "1"
+      },
+      {
+        "attrid": "1126",
+        "name": "Тип упаковки",
+        "value": "КОРОБКА/БОКС {BOX}",
+        "codegdsn": "2"
+      },
+      {
+        "attrid": "7",
+        "name": "Вкус",
+        "value": "ЯБЛОКО, ВИНОГРАД"
+      }
+    ],
+    "photos": [
+      {
+        "photoid": "256813",
+        "goodid": "110880",
+        "type": "default",
+        "size": "1|3456|2304|1200|800|300|200|686|1746",
+        "uri": "http://img.listex.info/orig/8a8ea6ec-156f-162b-ae1e-12528e01290b.jpg",
+        "isarchived": "0",
+        "isfacing": "2"
+      },
+      {
+        "photoid": "256812",
+        "goodid": "110880",
+        "type": "3ds",
+        "size": "24|3456|2304|1200|800|300|200",
+        "uri": "http://img.listex.info/orig/8a8ea6ec-156f-162b-ae1e-12528e01290b.jpg",
+        "isarchived": "0",
+        "isfacing": "0",
+        "series": [
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.0.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.1.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.2.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.3.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.4.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.5.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.6.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.7.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.8.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.9.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.10.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.11.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.12.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.13.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.14.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.15.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.16.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.17.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.18.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.19.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.20.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.21.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.22.jpg",
+          "http://img.listex.info/med/3d/8a8ea6ec-156f-162b-ae1e-12528e01290b.3d.23.jpg"
+        ]
+      },
+      {
+        "photoid": "256816",
+        "goodid": "110880",
+        "type": "7",
+        "size": "1|3456|2304|1200|800|300|200",
+        "uri": "http://img.listex.info/orig/8a8ea6ec-156f-162b-ae1e-12528e01290b.6.jpg",
+        "isarchived": "0",
+        "isfacing": "0"
+      },
+      {
+        "photoid": "256815",
+        "goodid": "110880",
+        "type": "19",
+        "size": "1|3456|2304|1200|800|300|200",
+        "uri": "http://img.listex.info/orig/8a8ea6ec-156f-162b-ae1e-12528e01290b.18.jpg",
+        "isarchived": "0",
+        "isfacing": "0"
+      }
+    ]
+  }
+}
