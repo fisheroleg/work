@@ -180,7 +180,7 @@
       {
         "photoid": "256816",
         "goodid": "110880",
-        "type": "7",
+        "type": "default",
         "size": "1|3456|2304|1200|800|300|200",
         "uri": "http://img.listex.info/orig/8a8ea6ec-156f-162b-ae1e-12528e01290b.6.jpg",
         "isarchived": "0",
@@ -189,7 +189,7 @@
       {
         "photoid": "256815",
         "goodid": "110880",
-        "type": "19",
+        "type": "default",
         "size": "1|3456|2304|1200|800|300|200",
         "uri": "http://img.listex.info/orig/8a8ea6ec-156f-162b-ae1e-12528e01290b.18.jpg",
         "isarchived": "0",
