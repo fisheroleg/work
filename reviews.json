@@ -3,6 +3,7 @@
   "model": "Gtin",
   "object": {
     "goodid": "110880",
+    "rating": "4.5",
     "reviews": [{
       "user": "Oleg",
       "rating": "4",
