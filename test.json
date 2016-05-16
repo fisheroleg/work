@@ -3,6 +3,7 @@
   "model": "Gtin",
   "object": {
     "goodid": "110880",
+    "rating": "4.5",
     "gtin": "4820123510578",
     "multiplier": "1.00",
     "good": {
@@ -195,6 +196,16 @@
         "isarchived": "0",
         "isfacing": "0"
       }
-    ]
+    ],
+    "reviews": [{
+      "user": "Oleg",
+      "rating": "4",
+      "review": "I wish I see this on the screen of my application!\nPlease!"
+    },
+    {
+      "user": "Владик с левака",
+      "rating": "4",
+      "review": "Че ты написал только что, буржуй?!?7"
+    }]
   }
 }
